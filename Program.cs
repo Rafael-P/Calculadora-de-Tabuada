@@ -14,7 +14,7 @@ namespace Algoritimo__de_Tabuada_17_11
             for (int i = 1; i <= 10; i++)
             {
                 resultado = numero*i;
-                Console.WriteLine(resultado);
+                Console.WriteLine(numero+" x "+i+" = "+resultado);
             }
 
         }//FIM DO MAIN
